@@ -67,3 +67,19 @@ a {
 #baratheon a {
   color: rgb(196, 153, 46);
 }
+
+#greyjoy {
+  background-image: linear-gradient(180deg, black, gold);
+}
+
+#greyjoy a {
+  color: black;
+}
+
+#tyrell {
+  background-image: linear-gradient(180deg, rgb(23, 132, 23), rgb(196, 169, 19));
+}
+
+#tyrell a {
+  color: brown;
+}
