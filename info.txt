@@ -1,1 +1,3 @@
 Rafi, I think I'm getting used to the git commands on terminal. Finally solved the problem of publishing updated code on GitHub!
+
+8/2/2023 - I've added a super simple quiz game. But it can be played only in the terminal console. Hopefully, I can integrate it on to the webpage in the future.
