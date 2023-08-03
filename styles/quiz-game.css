@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* If you can find a better cover image, go ahead and it here. I could't find a better image than this one. */
+  background-image: url('../images/quiz-game-cover-image.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: whitesmoke;
+}
+
+h1,
+h3 {
+  text-align: center;
+}

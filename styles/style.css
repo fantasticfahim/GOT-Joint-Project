@@ -1,5 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-  background-image: url('images/homepage-cover-image.jpg');
+  background-image: url('../images/homepage-cover-image.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -82,4 +88,19 @@ a {
 
 #tyrell a {
   color: brown;
+}
+
+.quiz-game-button-container {
+  margin: 20px;
+}
+
+/* The button definitely needs to be improved! */
+.quiz-game-button {
+  padding: 10px 15px;
+  border: none;
+  background-image: linear-gradient(180deg, purple, white);
+  color: cyan;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
 }
